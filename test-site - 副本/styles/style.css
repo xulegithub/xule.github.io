@@ -1,0 +1,47 @@
+h1{
+      font-size:xx-large;
+      text-align: center;
+      margin: 0;
+      padding: 20px 0;
+      color: #00539f;
+      text-shadow: 3px 3px 1px rgb(7, 47, 104);
+
+}
+p,
+li{
+  text-align: center;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 0.5px;
+}
+img{
+  width: 150px;
+
+}
+html{
+  background-color: #bef4f6;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 10px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 3px solid rgb(131, 176, 224);
+}
+input{
+  text-align: center;
+  
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+}
+p.第一 {
+  font-size: xx-large;
+  text-align: center;
+  color: rgb(255, 0, 0);
+
+}
